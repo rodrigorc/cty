@@ -5,6 +5,10 @@
 
 > Type aliases to C types like c_int for use with bindgen
 
+## About this fork
+
+This fork adds Xtensa (ESP32) support until upstream accepts it.
+
 ## License
 
 Licensed under either of
